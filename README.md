@@ -26,6 +26,8 @@ npm start
 
 Run Test
 
+Run thee high levell test series.
+
 ```
 npm test
 ```
